@@ -4,12 +4,12 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 const USER_CONFIG = {
-  name:       "Your Name",
-  initials:   "YN",
-  role:       "PhD Candidate",
-  university: "Your University",
-  email:      "your.email@university.edu",
-  bio:        "Exploring the frontiers of your research area, machine learning, and artificial intelligence. Building intelligent systems that advance scientific discovery.",
+  name:       "Tianyi Tao (陶天毅)",
+  initials:   "TT",
+  role:       "PhD",
+  university: "Fudan University",
+  email:      "tytao20@fudan.edu.cn",
+  bio:        "Mathematics",
   photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
