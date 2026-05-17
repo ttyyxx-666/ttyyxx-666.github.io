@@ -42,6 +42,22 @@ const USER_CONFIG = {
       links:    {  link: "https://doi.org/10.17654/0974165825031" },
       abstract: "",
     },
+    {
+      year:     2025,
+      title:    "On 1-11-representability and multi-1-11-representability of graphs",
+      authors:  "Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, and Junchi Zhang",
+      venue:    "Utilitas Mathematica",
+      links:    {  link: "https://doi.org/10.61091/um122-02" },
+      abstract: "",
+    },
+    {
+      year:     2026,
+      title:    "Finding product and sum patterns in non-commutative settings",
+      authors:  "Tianyi Tao and Ningyuan Yang",
+      venue:    "Frontiers of Mathematics",
+      links:    {  link: "https://doi.org/10.1007/s11464-024-0166-6" },
+      abstract: "",
+    },
   ],
 
   projects: [
