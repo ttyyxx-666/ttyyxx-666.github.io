@@ -7,7 +7,7 @@ const USER_CONFIG = {
   name:       "Tianyi Tao",
   initials:   "TT",
   role:       "PhD Candidate",
-  university: "Your University",
+  university: "Fudan University",
   email:      "tytao20@fudan.edu.cn",
   bio:        "Mathematics",
   photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
