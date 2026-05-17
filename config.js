@@ -10,8 +10,7 @@ const USER_CONFIG = {
   university: "Fudan University",
   email:      "tytao20@fudan.edu.cn",
   bio:        "Mathematics",
-  photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
-
+  photo:      "photo.jpg",
   stats: [
     { value: "4",  label: "Publications" },
     { value: "200+", label: "Citations" },
@@ -31,8 +30,7 @@ const USER_CONFIG = {
       title:    "The nonrepetitive coloring of grids",
       authors:  "Tianyi Tao",
       venue:    "Discrete Mathematics",
-      links:    { pdf: "#", code: "#" },
-      abstract: "A brief summary of your paper's contributions and findings.",
+      links:    { https://doi.org/10.1016/j.disc.2025.114828 },
     },
     {
       year:     2024,
