@@ -31,7 +31,7 @@ const USER_CONFIG = {
       title:    "The nonrepetitive coloring of grids",
       authors:  "Tianyi Tao",
       venue:    "Discrete Mathematics",
-      links:    { pdf: "#", code: "#" },
+      links:    { https://doi.org/10.1016/j.disc.2025.114828},
       abstract: "A brief summary of your paper's contributions and findings.",
     },
     {
