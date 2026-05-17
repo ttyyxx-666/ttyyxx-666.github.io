@@ -31,7 +31,7 @@ const USER_CONFIG = {
       title:    "The nonrepetitive coloring of grids",
       authors:  "Tianyi Tao",
       venue:    "Discrete Mathematics",
-      links:    { pdf: "#", code: "https://doi.org/10.1016/j.disc.2025.114828" },
+      links:    { link: "https://doi.org/10.1016/j.disc.2025.114828" },
       abstract: "A brief summary of your paper's contributions and findings.",
     },
     {
@@ -39,7 +39,7 @@ const USER_CONFIG = {
       title:    "Water transport on a path: finding the strategy through its existence",
       authors:  "Tianyi Tao",
       venue:    "Advances and Applications in Discrete Mathematics",
-      links:    { pdf: "#", code: "https://doi.org/10.17654/0974165825031" },
+      links:    {  link: "https://doi.org/10.17654/0974165825031" },
       abstract: "",
     },
   ],
